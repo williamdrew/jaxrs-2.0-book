@@ -1,0 +1,4 @@
+com/restfully/shop/domain/Customers.class
+com/restfully/shop/domain/Customer.class
+com/restfully/shop/services/ShoppingApplication.class
+com/restfully/shop/services/CustomerResource.class

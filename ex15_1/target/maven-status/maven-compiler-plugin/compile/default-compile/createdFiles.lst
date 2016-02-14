@@ -1,0 +1,12 @@
+com/restfully/shop/features/PerDayAuthorizer$UserMethodKey.class
+com/restfully/shop/features/OneTimePasswordAuthenticator$1$1.class
+com/restfully/shop/features/OneTimePasswordAuthenticator.class
+com/restfully/shop/features/OTPAuthenticated.class
+com/restfully/shop/features/AllowedPerDay.class
+com/restfully/shop/features/OTP.class
+com/restfully/shop/domain/Customer.class
+com/restfully/shop/services/ShoppingApplication.class
+com/restfully/shop/services/CustomerResource.class
+com/restfully/shop/features/PerDayAuthorizer.class
+com/restfully/shop/features/OneTimePasswordAuthenticator$1.class
+com/restfully/shop/features/OneTimePasswordGenerator.class
