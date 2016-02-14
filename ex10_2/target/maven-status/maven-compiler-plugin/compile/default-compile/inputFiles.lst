@@ -1,9 +1,0 @@
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/domain/Customer.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/domain/Customers.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/services/ShoppingApplication.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/services/OrderResource.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/services/CustomerResource.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/domain/Orders.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/domain/Order.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/domain/LineItem.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex10_2/src/main/java/com/restfully/shop/services/StoreResource.java

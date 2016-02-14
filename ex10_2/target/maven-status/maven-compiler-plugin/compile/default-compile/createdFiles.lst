@@ -1,9 +1,0 @@
-com/restfully/shop/domain/Orders.class
-com/restfully/shop/services/StoreResource.class
-com/restfully/shop/domain/LineItem.class
-com/restfully/shop/services/OrderResource.class
-com/restfully/shop/domain/Customers.class
-com/restfully/shop/domain/Customer.class
-com/restfully/shop/services/ShoppingApplication.class
-com/restfully/shop/domain/Order.class
-com/restfully/shop/services/CustomerResource.class

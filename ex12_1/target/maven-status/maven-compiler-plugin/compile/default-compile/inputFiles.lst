@@ -1,6 +1,0 @@
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/domain/Customer.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/services/ShoppingApplication.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/features/MaxAge.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/features/CacheControlFilter.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/services/CustomerResource.java
-/home/William/workspaces/sandbox/oreilly-jaxrs-2.0-workbook/ex12_1/src/main/java/com/restfully/shop/features/MaxAgeFeature.java
